@@ -145,14 +145,13 @@ wss://stream.binance.com:9443/ws/btcusdt@ticker
 
 1. **Complete source code** with clear Git commits
 2. **README** with setup instructions and architecture notes
-3. **Working application** that runs with `npm run dev`
+3. **Working application** that runs with `npm run dev` and `npm run build`
 4. **TypeScript** properly configured and used throughout
 
 ## Bonus Points (Optional)
 
 - **Performance optimization** for handling many real-time updates
 - **Advanced filtering/search** with debouncing
-- **Dark/light theme** toggle
 - **Price change animations** (flash green/red on updates)
 - **Virtualized list** for handling large datasets
 - **Unit tests** for key components
